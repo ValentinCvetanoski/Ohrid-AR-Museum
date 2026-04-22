@@ -1,0 +1,135 @@
+[
+    {
+      "locationName": "Samuel's Fortress",
+      "latitude": 41.11694,
+      "longitude": 20.80167,
+      "radius": 20,
+      "historicalPhoto": "samuel_fortress.jpg"
+    },
+    {
+      "locationName": "Church of St. John at Kaneo",
+      "latitude": 41.1125,
+      "longitude": 20.7914,
+      "radius": 20,
+      "historicalPhoto": "st_john_kaneo.jpg"
+    },
+    {
+      "locationName": "Church of Saint Sophia",
+      "latitude": 41.1131,
+      "longitude": 20.7969,
+      "radius": 20,
+      "historicalPhoto": "st_sophia.jpg"
+    },
+    {
+      "locationName": "Ancient Theatre of Ohrid",
+      "latitude": 41.1156,
+      "longitude": 20.7972,
+      "radius": 20,
+      "historicalPhoto": "ancient_theatre.jpg"
+    },
+    {
+      "locationName": "Plaošnik",
+      "latitude": 41.1117,
+      "longitude": 20.7925,
+      "radius": 20,
+      "historicalPhoto": "plaosnik.jpg"
+    },
+    {
+      "locationName": "Monastery of Saint Naum",
+      "latitude": 40.91389,
+      "longitude": 20.7405,
+      "radius": 20,
+      "historicalPhoto": "st_naum.jpg"
+    },
+    {
+      "locationName": "Robev Family House",
+      "latitude": 41.1133,
+      "longitude": 20.7961,
+      "radius": 20,
+      "historicalPhoto": "robev_house.jpg"
+    },
+    {
+      "locationName": "National Workshop for Handmade Paper",
+      "latitude": 41.1135,
+      "longitude": 20.7963,
+      "radius": 20,
+      "historicalPhoto": "handmade_paper.jpg"
+    },
+    {
+      "locationName": "Bay of Bones Museum",
+      "latitude": 40.9672,
+      "longitude": 20.8028,
+      "radius": 20,
+      "historicalPhoto": "bay_of_bones.jpg"
+    },
+    {
+      "locationName": "Icon Gallery-Ohrid",
+      "latitude": 41.1132,
+      "longitude": 20.7968,
+      "radius": 20,
+      "historicalPhoto": "icon_gallery.jpg"
+    },
+    {
+      "locationName": "Ohrid Central Square",
+      "latitude": 41.1122,
+      "longitude": 20.7969,
+      "radius": 20,
+      "historicalPhoto": "central_square.jpg"
+    },
+    {
+      "locationName": "Old Bazaar Street",
+      "latitude": 41.1147,
+      "longitude": 20.8000,
+      "radius": 20,
+      "historicalPhoto": "old_bazaar.jpg"
+    },
+    {
+      "locationName": "Lake Ohrid",
+      "latitude": 41.0473,
+      "longitude": 20.7147,
+      "radius": 20,
+      "historicalPhoto": "lake_ohrid.jpg"
+    },
+    {
+      "locationName": "Church of St. Clement and Panteleimon",
+      "latitude": 41.1117,
+      "longitude": 20.7925,
+      "radius": 20,
+      "historicalPhoto": "st_clement.jpg"
+    },
+    {
+      "locationName": "National Ohrid Museum - Robevci House",
+      "latitude": 41.1133,
+      "longitude": 20.7961,
+      "radius": 20,
+      "historicalPhoto": "robevci_museum.jpg"
+    },
+    {
+      "locationName": "Saint Panteleimon Monastery",
+      "latitude": 41.1117,
+      "longitude": 20.7925,
+      "radius": 20,
+      "historicalPhoto": "st_panteleimon.jpg"
+    },
+    {
+      "locationName": "Saint Naum Springs",
+      "latitude": 40.9150,
+      "longitude": 20.7405,
+      "radius": 20,
+      "historicalPhoto": "st_naum_springs.jpg"
+    },
+    {
+      "locationName": "Ohrid Amphitheater",
+      "latitude": 41.1156,
+      "longitude": 20.7972,
+      "radius": 20,
+      "historicalPhoto": "ohrid_amphitheater.jpg"
+    },
+    {
+      "locationName": "Saint Sophia Cathedral",
+      "latitude": 41.1131,
+      "longitude": 20.7969,
+      "radius": 20,
+      "historicalPhoto": "st_sophia_cathedral.jpg"
+    }
+  ]
